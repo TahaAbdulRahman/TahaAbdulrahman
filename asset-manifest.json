@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/TahaAbdulrahman/static/css/main.6c81e449.css",
+    "main.js": "/TahaAbdulrahman/static/js/main.f7f1110e.js",
+    "static/media/contact.webp": "/TahaAbdulrahman/static/media/contact.16433f9df9138ef2efa5.webp",
+    "static/media/landing.gif": "/TahaAbdulrahman/static/media/landing.9cd39544406898c058e5.gif",
+    "static/media/Taha-Abdulrahman.pdf": "/TahaAbdulrahman/static/media/Taha-Abdulrahman.d71868c9ecc3a9eecca6.pdf",
+    "static/media/about.svg": "/TahaAbdulrahman/static/media/about.ca36f8588a93531f7d944154c359d2e2.svg",
+    "static/media/react-portfolio.webp": "/TahaAbdulrahman/static/media/react-portfolio.f66d281636af0b8b7746.webp",
+    "static/media/kasper.webp": "/TahaAbdulrahman/static/media/kasper.ba8036971735bae31ee2.webp",
+    "static/media/portfolio.webp": "/TahaAbdulrahman/static/media/portfolio.3461d05037dc5d1450ff.webp",
+    "static/media/elsultan.webp": "/TahaAbdulrahman/static/media/elsultan.92b3349c5b8524ea3fee.webp",
+    "static/media/nmec.webp": "/TahaAbdulrahman/static/media/nmec.4a665d094132398fc152.webp",
+    "static/media/elzero.webp": "/TahaAbdulrahman/static/media/elzero.8208bffe97da604d1177.webp",
+    "static/media/dates.webp": "/TahaAbdulrahman/static/media/dates.e9e270e56178fe58f89f.webp",
+    "static/media/logo.webp": "/TahaAbdulrahman/static/media/logo.f513b5a6daa9cf52b823.webp",
+    "static/media/bootstrap.webp": "/TahaAbdulrahman/static/media/bootstrap.ba9a8b9545db5a89053d.webp",
+    "static/media/reactjs.webp": "/TahaAbdulrahman/static/media/reactjs.2f7360bd93f6ef252bee.webp",
+    "static/media/css.webp": "/TahaAbdulrahman/static/media/css.db705b88e72ab7f68aae.webp",
+    "static/media/html.webp": "/TahaAbdulrahman/static/media/html.be90cb7ebc19d714cbf2.webp",
+    "static/media/github.webp": "/TahaAbdulrahman/static/media/github.7ad44311d1feb3e20dd5.webp",
+    "static/media/gi.webp": "/TahaAbdulrahman/static/media/gi.87a2c22124aa46c1df46.webp",
+    "static/media/sass.svg": "/TahaAbdulrahman/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
+    "static/media/js.webp": "/TahaAbdulrahman/static/media/js.a3ffe0106415cd0c4cad.webp",
+    "static/media/commandline.webp": "/TahaAbdulrahman/static/media/commandline.ec8101ebcb06df99560a.webp",
+    "index.html": "/TahaAbdulrahman/index.html",
+    "main.6c81e449.css.map": "/TahaAbdulrahman/static/css/main.6c81e449.css.map",
+    "main.f7f1110e.js.map": "/TahaAbdulrahman/static/js/main.f7f1110e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c81e449.css",
+    "static/js/main.f7f1110e.js"
+  ]
+}
